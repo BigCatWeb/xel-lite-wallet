@@ -6,7 +6,7 @@
     <groupId>org.xel</groupId>
     <artifactId>xel-lite-wallet</artifactId>
     <packaging>jar</packaging>
-    <version>3.1.3</version>
+    <version>4.0.0</version>
     <name>xel-lite-wallet</name>
     <url>http://maven.apache.org</url>
     <build>

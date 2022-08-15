@@ -20,7 +20,7 @@
 ##
 ## REPEATED STEP FOR EVERY NEW VERSION
 ## ===================================
-## 1. In Cygwin, run "./win-release-package.sh 3.1.3" when 3.1.3 is the current version number
+## 1. In Cygwin, run "./win-release-package.sh 4.0.0" when 4.0.0 is the current version number
 
 
 VERSION=$1
